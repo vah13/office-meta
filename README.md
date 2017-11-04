@@ -4,11 +4,17 @@ using simple meta-tag im html page (see example for docx, docx.html) in target s
 supported file formats:
 
 ms-word
+
 ms-excel
+
 ms-powerpoint
+
 ms-visio
+
 ms-access
+
 ms-publisher
+
 ms-project
 
 ```
